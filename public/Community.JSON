@@ -7,7 +7,7 @@
     "gender": "female",
     "email": "edwinamcleod@keeg.com",
     "phone": "+1 (812) 486-3320757",
-    "salary": 3000
+    "salary": "30/hr"
   },
   {
     "_id": "6158794fc0424b5689b78c9da208",
@@ -17,7 +17,7 @@
     "gender": "female",
     "email": "katharineclark@keeg.com",
     "phone": "+1 (855) 496-37100360",
-    "salary": 7000
+    "salary": "70/hr"
   },
   {
     "_id": "6496314fc042bfbf77884e84fa21",
@@ -27,7 +27,7 @@
     "gender": "male",
     "email": "elliottlivingston@keeg.com",
     "phone": "+1 (914) 488-2808448",
-    "salary": 25108
+    "salary": "25/hr"
   },
   {
     "_id": "7652614fc042c53bf5346218fea0",
@@ -37,7 +37,7 @@
     "gender": "female",
     "email": "dixonhenson@keeg.com",
     "phone": "+1 (833) 589-2206544",
-    "salary": 2800
+    "salary": "28/hr"
   },
   {
     "_id": "5873614fc042fd37162a730e00f2",
@@ -47,7 +47,7 @@
     "gender": "female",
     "email": "alliestuart@keeg.com",
     "phone": "+1 (917) 403-2302070",
-    "salary": 25003
+    "salary": "23/hr"
   },
   {
     "_id": "365614fc042bf95ec9451bda22c",
@@ -57,7 +57,7 @@
     "gender": "male",
     "email": "norrishansen@keeg.com",
     "phone": "+1 (993) 564-3830064",
-    "salary": 12500
+    "salary": "12/hr"
   },
   {
     "_id": "702614fc042a92751f9b100cb9a",
@@ -67,7 +67,7 @@
     "gender": "male",
     "email": "penningtonpratt@keeg.com",
     "phone": "+1 (930) 463-3600821",
-    "salary": 9500
+    "salary": "9/hr"
   },
   {
     "_id": "614367586fc042a92751f9b100cb9a",
@@ -77,7 +77,7 @@
     "gender": "female",
     "email": "ningtonpratt@eeg.com",
     "phone": "+1 (930) 463-3007621",
-    "salary": 4500
+    "salary": "45/hr"
   },
   {
     "_id": "6140050035fc042a92751f9b100cb9a",
@@ -87,7 +87,7 @@
     "gender": "male",
     "email": "gtonpratt@yeeg.com",
     "phone": "+1 (930) 463-3600821",
-    "salary": 3500
+    "salary": "35/hr"
   },
   {
     "_id": "6100002534fc042a92751f9b100cb9a",
@@ -97,7 +97,7 @@
     "gender": "female",
     "email": "mwevngtonpratt@keeg.com",
     "phone": "+1 (930) 463-3621457",
-    "salary": 8200
+    "salary": "82/hr"
   },
   {
     "_id": "688514fc042a927510035f9b100cb9a",
@@ -107,7 +107,7 @@
     "gender": "female",
     "email": "xytningtonpratt@weeg.com",
     "phone": "+1 (930) 463-3621893",
-    "salary": 7500
+    "salary": "75/hr"
   },
   {
     "_id": "600214fc042a002592751f9b100cb9a",
@@ -117,7 +117,7 @@
     "gender": "female",
     "email": "souronpratt@teegth.com",
     "phone": "+1 (930) 463-3621785",
-    "salary": 6500
+    "salary": "65/hr"
   },
   {
     "_id": "614fc042a92003751f9b45900cb9a",
@@ -127,7 +127,7 @@
     "gender": "male",
     "email": "outtonpratt@neeg.com",
     "phone": "+1 (930) 463-362100",
-    "salary": 5500
+    "salary": "55/hr"
   },
   {
     "_id": "614fc042a92152751f9b328100cb9a",
@@ -137,7 +137,7 @@
     "gender": "male",
     "email": "penkingtonprt@seeg.com",
     "phone": "+1 (930) 463-2621",
-    "salary": 4500
+    "salary": "45/hr"
   },
   {
     "_id": "614fc04122a92751f9b458100cb9a",
@@ -147,6 +147,6 @@
     "gender": "male",
     "email": "enningtonpret@leeg.com",
     "phone": "+1 (930) 463-3621",
-    "salary": 3500
+    "salary": "35/hr"
   }
 ]

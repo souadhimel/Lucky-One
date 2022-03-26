@@ -1,8 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./Members.css";
-
 import Cart from "../Cart/Cart";
-import Member from "../Member/member";
+import Member from "../Member/Member";
 const Members = () => {
   const [members, setMembers] = useState([]);
   //   console.log(members);

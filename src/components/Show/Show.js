@@ -1,9 +1,13 @@
 import React from "react";
+import "./Show.css";
 
-const Show = () => {
+const Show = (props) => {
+  const { member } = props;
+
   return (
     <div>
-      <h2>From show</h2>
+      <h3>{member.name}</h3>
+      <img className="show-pic" src={member.picture} alt="" />
     </div>
   );
 };
