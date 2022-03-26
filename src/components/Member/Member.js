@@ -30,8 +30,6 @@ const Member = (props) => {
           <button className="add-btn" onClick={() => errorMessage(_id)}>
             Add in team <FcApproval className="icon"></FcApproval>
           </button>
-
-          <div>{/* <FontAwesomeIcon icon={faLink} /> */}</div>
         </div>
       </div>
     </div>

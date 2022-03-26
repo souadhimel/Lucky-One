@@ -12,7 +12,8 @@ const Cart = (props) => {
       {carts.map((member) => (
         <Show member={member} key={member._id}></Show>
       ))}
-      <button className="cart-btn">Delete now</button>
+      <button className="cart-btn1">Choose one for me</button>
+      <button className="cart-btn2">Delete now</button>
     </div>
   );
 };
