@@ -1,5 +1,7 @@
 import React from "react";
 import "./Member.css";
+import { FcApproval } from "react-icons/fc";
+
 // import { faLink, faUserPlus } from "@fortawesome/free-solid-svg-icons";
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
@@ -26,8 +28,7 @@ const Member = (props) => {
           <p>Phone:{phone}</p>
           <p>Salary:${salary}</p>
           <button className="add-btn" onClick={() => errorMessage(_id)}>
-            {/* <FontAwesomeIcon icon={faUserPlus} /> */}
-            Add in team
+            Add in team <FcApproval className="icon"></FcApproval>
           </button>
 
           <div>{/* <FontAwesomeIcon icon={faLink} /> */}</div>
