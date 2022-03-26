@@ -5,7 +5,9 @@ const Header = () => {
   return (
     <div className="header">
       <h1> Find your favorite team members </h1>
-      <p>The one and only solution for your dream work</p>
+      <p>
+        The one and only solution for your dream work in your door steps!!!!!!!!
+      </p>
     </div>
   );
 };
